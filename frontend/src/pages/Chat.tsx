@@ -13,7 +13,7 @@ export default function Chat() {
       },
       {
         headers: {
-          Authorization: "Bearer nebula_0a0945cd-f1b3-4408-899f-62c40fce5616"
+          Authorization: "Bearer nebula_df2c4236-05c7-4fdf-914a-dc789f66c16a"
         }
       }
     );
